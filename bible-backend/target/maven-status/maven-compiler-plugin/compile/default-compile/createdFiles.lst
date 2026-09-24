@@ -1,0 +1,5 @@
+com/example/bible/BibleService.class
+com/example/bible/BibleApplication.class
+com/example/bible/BibleController.class
+com/example/bible/BibleService$ChapterResponse.class
+com/example/bible/BibleService$VerseResponse.class
